@@ -1,2 +1,3 @@
 # Pupil-issue
-Issue-only repository for [Pupil](https://tom5079.github.io/Pupil)
+Pupil is now open source!
+head over to [main project](https://github.com/tom5079/Pupil)
